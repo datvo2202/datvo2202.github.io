@@ -1,0 +1,86 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+#wapper{
+	width: 1920px;
+	height: 1080px;
+	
+}
+#header{
+	width: 1920px;
+	height: 238px;
+	
+}
+#content{
+	width: 1920px;
+	height: 630px;
+	background: #64BAD9
+}
+#footer{
+	width: 1920px;
+	height: 212px;
+	
+}
+.menu{
+	width: 862px;
+	height: 238px;
+	float: left
+}
+.menu ul {
+list-style: none;
+}
+.menu ul li{
+	float: left;
+	margin-left: 70px;
+	margin-top: 74px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color:#74774a;
+	font-size: 29px;
+	font-family: 'Dancing Script', cursive;
+		
+}
+.menu ul li a:hover{
+	color: antiquewhite;
+	transition-duration: 0.2
+	
+}
+
+.find{
+	width: 858px;
+	height: 238px;
+	background: #D91FE4;
+	float: right
+}
+.logo img{
+	width: 200px;
+	height: 162px;
+	margin-top: 74px
+}
+#content img{
+	width: 1920px;
+	height: 630px;
+}
+
+#footer h1 {
+	color:#74774a;
+	font-size: 76px;
+	margin-left: 98px;
+	font-family: 'Dancing Script', cursive;
+}
+#footer p {
+	color:#74774a;
+	font-size: 39px;
+	margin-left: 98px;
+	font-family: 'Dancing Script', cursive;
+	
+}
+	
+	
+	
+	
+
+		
